@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coder gif"/>
 </p>
 
-- 🔭 My Portofolio:  
+- 🔭 I’m currently working on:  
   `MaxTrip`, `LaundryNB`, `Parkirfixx`, and a medication reminder app.
 
 - 🌱 I’m currently learning:  
