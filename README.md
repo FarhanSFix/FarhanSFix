@@ -60,6 +60,7 @@
 
 ### 🕹️ Fun Terminal 
 
+```bash
 > whoami
 Farhan Sulis Febriyan
 
