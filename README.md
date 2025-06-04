@@ -15,7 +15,7 @@
 ### 🎮 About Me
 
 - 🔭 **My Projects**:  
-  `MaxTrip`, `LaundryNB`, `Parkirfixx`, and a medication reminder app.
+  `MaxTrip`, `LaundryNB`, `Parkirfixx`, `medication reminder app` , and a `blog app`.
 
 - 🌱 **Currently Exploring**:  
   `Flutter`, `Java`, `Firebase`, `Machine Learning`, and more.
