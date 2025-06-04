@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center"><code>Informatics Student 🧠 | Android & Flutter Developer 📱 | Tech Enthusiast 💡</code></h3>
+<h3 align="center"><code>Informatics Student 🧠 | Mobile App Developer 📱 | Tech Enthusiast 💡</code></h3>
 
 ---
 
