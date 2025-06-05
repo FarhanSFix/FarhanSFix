@@ -50,6 +50,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FarhanSFix&theme=radical" width="400"/>
 </p>
 
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FarhanSFix&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FarhanSFix&theme=radical" />
+</p>
+
 ---
 
 ### 🏆 GitHub Trophies
