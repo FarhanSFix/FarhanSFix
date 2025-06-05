@@ -47,7 +47,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FarhanSFix&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FarhanSFix&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FarhanSFix&theme=radical" width="450"/>
 </p>
 
 
